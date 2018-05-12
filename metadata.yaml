@@ -1,0 +1,31 @@
+_repo: The-Barrier_41890
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41890-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: French, Allen
+    birthdate: 1870
+    deathdate: 1946
+    gutenberg_agent_id: '31596'
+    url: http://www.gutenberg.org/2009/agents/31596
+description: ''
+gutenberg_issued: '2013-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcsh 'Business -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Social classes -- United States -- Fiction'
+- !lcc 'PS'
+title: 'The Barrier: A Novel'
+url: http://www.gutenberg.org/ebooks/41890
